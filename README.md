@@ -2,7 +2,7 @@
 
 Hi, this model is my proudest work from Ruangguru's Engineering Academy: Mastering AI bootcamp which I did from August to October 2023. I'm posting some of the raw files here, but the model itself is available on HuggingFace's model hub [here](https://huggingface.co/dennisjooo/Birds-Classifier-EfficientNetB2).
 
-![Model Results](logs\result.png)
+![Model Results](https://github.com/dennisjooo/Birds-Classifier-EfficientNetB2/blob/main/logs/result.png)
 
 ## Model Description
 
@@ -63,4 +63,4 @@ The following are the hyperparameters used for training:
 
 The image below is the result of the training process both on the training and validation set:
 
-![Training results](logs\metrics.png)
+![Training results](https://github.com/dennisjooo/Birds-Classifier-EfficientNetB2/blob/main/logs/metrics.png)
