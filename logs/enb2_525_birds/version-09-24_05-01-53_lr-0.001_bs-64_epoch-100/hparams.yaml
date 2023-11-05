@@ -1,0 +1,4 @@
+learning_rate: 0.001
+num_classes: 525
+patience: 2
+top_k: 1
